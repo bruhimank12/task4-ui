@@ -1,3 +1,5 @@
 # task4-ui
 UI for rest-API
-![task4](./images/im2.png width="400" height="400")
+<div style="width:60px ; height:60px">
+    ![task4](./images/im2.png)
+<div>
